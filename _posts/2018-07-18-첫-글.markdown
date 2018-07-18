@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 첫 
+title: 첫 블로깅
 date: 2018-07-18 14:18
 comments: true
 external-url:
