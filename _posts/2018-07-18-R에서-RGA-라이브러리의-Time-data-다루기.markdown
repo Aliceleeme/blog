@@ -7,7 +7,7 @@ external-url:
 categories: R
 ---
 
-R과 google analytics를 연결하여 분석을 진행하기 위해서는 time data를 정제하고 형식을 통일해야만 한다. 하지만 R의 경우 time data를 다루기 어려운 것으로 유명한데, [RGA](https://cran.r-project.org/web/packages/RGA/README.html “RGA”) 라이브러리에서 시간 데이터를 다룰 때 어떻게 작업하였는지 정리한 코드를 공개하고 이를 설명하고자 한다. 
+R과 google analytics를 연결하여 분석을 진행하기 위해서는 time data를 정제하고 형식을 통일해야만 한다. 하지만 R의 경우 time data를 다루기 어려운 것으로 유명한데, [RGA](https://cran.r-project.org/web/packages/RGA/index.html “RGA”) 라이브러리에서 시간 데이터를 다룰 때 어떻게 작업하였는지 정리한 코드를 공개하고 이를 설명하고자 한다. 
 
 아래의 코드는 베이지안 분석에서 사용되는 time-series 분석 중 하나인 Causal impact 그래프를 그리기 위해 사용한 내용이다. 
 
