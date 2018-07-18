@@ -1,9 +1,9 @@
 # Site settings
-title: "Coffee breaks with blog"
+title: "Coffee break"
 author: "Alice Lee"
 description: "데이터 및 기술 공부의 흔적을 남기기 위한 블로그, 종종 다른 이야기도 합니다."
 keywords: "Blogging, Journalism, Machine-learning"
-biography: Data scientist and caffein addict from the universe 
+biography: Data scientist, caffein addict, psychology lover and technician
 colophon: 
 
 baseurl: ""
