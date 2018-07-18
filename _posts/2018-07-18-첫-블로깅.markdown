@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 한국어 테스트
-date: 2018-07-18 13:52
+title: 첫 블로깅
+date: 2018-07-18 14:18
 comments: true
 external-url:
 categories: Blogging
