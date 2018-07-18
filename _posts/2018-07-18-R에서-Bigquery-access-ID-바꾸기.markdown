@@ -19,6 +19,4 @@ reset_access_cred()
 
 1. R에서 getwd()를 통해 본인의 디렉토리를 확인
 2. R에서 확인한 디렉토리에서 .httr-oauth 파일을 삭제
-3. reset_access_cred()를 입력 후 재인증 팝업 화면이 뜨면 빅쿼리에 재로그인 
-
-출처: https://github.com/r-dbi/bigrquery/issues/136
+3. reset_access_cred()를 입력 후 재인증 팝업 화면이 뜨면 빅쿼리에 다시 로그인하기 
