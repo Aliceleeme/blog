@@ -13,14 +13,14 @@ R과 google analytics를 연결하여 분석을 진행하기 위해서는 time d
 
 ```R
 install.packages("RGA")
+install.packages("CausalImpact")
 
+library(CausalImpact)      #Time-series 그래프를 그리기 위한 라이브러리 
 library(RGA)
 authorize()      #RGA 접속 인증작업 
 rga.open(instance == "ga")
 
-library(CausalImpact)      #Time-series 그래프를 그리기 위한 라이브러리 
-
-# GA 내의 profile list 확인
+## GA 내의 profile list 확인
 ga_profiles = list_profiles()
 id = ga_profiles[grep("web_site_url", ga_profiles$websiteUrl), "id"]
 list_profiles()      #GA 안에 있는 profiles ID 및 정보 확인 가능 
