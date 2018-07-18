@@ -1,7 +1,7 @@
 ---
 layout: post
 title: R에서 RGA 라이브러리의 Time data 다루기
-date: 2018-07-18 18:00
+date: 2018-07-18 17:39
 comments: true
 external-url:
 categories: R
