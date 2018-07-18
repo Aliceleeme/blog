@@ -1,0 +1,13 @@
+---
+layout: post
+title: 한국어 테스트
+date: 2018-07-18 13:52
+comments: true
+external-url:
+categories: Blogging
+---
+
+오랜기간 끝에 github.io를 기반으로 한 블로그를 만들었다. 여태까지 만들겠다고 삽질을 n개월 정도 한 것 같은데, 지금 이 코드는 정상적으로 작동하고 있다. 
+나는 개인적으로 wordpress 블로그를 이미 운영하고 있다. 이 곳에 쓰게 될 글은 아마 Github의 TIL로 작성하던 공부 내용을 정리해서 올리게 될 가능성이 가장 높다.
+그리고 가능하다면 R과 Python을 동시에 공부하는 사람들에게 도움이 될만한 자료를 만들고 싶다.
+
